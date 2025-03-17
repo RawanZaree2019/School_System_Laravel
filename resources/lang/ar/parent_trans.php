@@ -1,0 +1,25 @@
+<?php
+
+return array (
+  'Choose' => 'اختر من القائمة',
+  'Job' => 'العمل',
+  'Job_en' => 'العمل بالإنكليزي',
+  'add_parent' => 'إضافة ولي أمر',
+  'address' => 'العنوان',
+  'back' => 'السابق',
+  'confirm_info' => 'تأكيد المعلومات',
+  'father_info' => 'معلومات الأب',
+  'father_name' => 'اسم الأب',
+  'father_name_en' => 'اسم الأب بالإنكليزي',
+  'mother_info' => 'معلومات الأم',
+  'mother_name' => 'اسم الأم',
+  'mother_name_en' => 'اسم الأم بالإنكليزي',
+  'national_id' => 'الرقم الوطني',
+  'nationality' => 'الجنسية',
+  'next' => 'التالي',
+  'parent_list' => 'قائمة أولياء الأمور',
+  'phone' => 'رقم الهاتف',
+  'religion' => 'الديانة',
+  'save_data' => 'هل أنت متأكد من حفظ البيانات ؟',
+  'type_blood' => 'زمرة الدم',
+);

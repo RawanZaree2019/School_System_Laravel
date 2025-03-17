@@ -1,0 +1,26 @@
+<?php
+
+return array (
+  'Choose' => 'Choose from the list',
+  'Job' => 'Job',
+  'Job_en' => 'Job in English',
+  'add_parent' => 'Add Parent',
+  'address' => 'Address',
+  'back' => 'Back',
+  'confirm_info' => 'Confirm Information',
+  'father_info' => 'Father Information',
+  'father_name' => 'Father Name',
+  'father_name_en' => 'Father Name in English',
+  'finish' => 'Finish',
+  'mother_info' => 'Mother Information',
+  'mother_name' => 'Mother Name',
+  'mother_name_en' => 'Mother Name in English',
+  'national_id' => 'National ID',
+  'nationality' => 'Nationality',
+  'next' => 'Next',
+  'parent_list' => 'Parent List',
+  'phone' => 'Phone',
+  'religion' => 'Religion',
+  'save_data' => 'Are you sure you want to save the data?',
+  'type_blood' => 'Type Blood',
+);
